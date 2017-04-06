@@ -6,6 +6,17 @@ In a historical study by John Ridley Stroop, he demonstrated the interference ef
 
 # Screenshots
 
+### Introduction
+
+![alt text](https://github.com/AeKana/MATLAB/blob/master/Screenshot_4.png)
+
+### Congruent Stimuli
+
+![alt text](https://github.com/AeKana/MATLAB/blob/master/Screenshot_6.png)
+
+### Incongruent Stimuli
+
+![alt text](https://github.com/AeKana/MATLAB/blob/master/Screenshot_5.png)
 
 # References
 
