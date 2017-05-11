@@ -18,7 +18,7 @@ In a historical study by John Ridley Stroop, he demonstrated the interference ef
 
 ### Sample Results compared with class
 
-
+![alt_text](https://github.com/AeKana/MATLAB/blob/master/sample_result.png)
 
 # References
 
