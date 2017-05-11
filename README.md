@@ -8,15 +8,15 @@ In a historical study by John Ridley Stroop, he demonstrated the interference ef
 
 ### Introduction
 
-![alt text](https://github.com/AeKana/MATLAB/blob/master/Screenshot_4.png)
+![alt text](https://github.com/AeKana/MATLAB/blob/master/intro.png)
 
 ### Congruent Stimuli
 
-![alt text](https://github.com/AeKana/MATLAB/blob/master/Screenshot_6.png)
+![alt text](https://github.com/AeKana/MATLAB/blob/master/congruent.png)
 
 ### Incongruent Stimuli
 
-![alt text](https://github.com/AeKana/MATLAB/blob/master/Screenshot_5.png)
+![alt text](https://github.com/AeKana/MATLAB/blob/master/incongruent.png)
 
 # References
 
