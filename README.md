@@ -16,6 +16,10 @@ In a historical study by John Ridley Stroop, he demonstrated the interference ef
 
 ![alt text](https://github.com/AeKana/MATLAB/blob/master/incongruent.png)
 
+### Sample Results compared with class
+
+![alt_text](https://github.com/AeKana/MATLAB/blob/master/sample_results.png)
+
 # References
 
 - Cattell, J. McK. (1886). The time it takes to see and name objects. *Mind*, 11, 63-65.
