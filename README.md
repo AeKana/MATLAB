@@ -16,7 +16,7 @@ In a historical study by John Ridley Stroop, he demonstrated the interference ef
 
 ![alt text](https://github.com/AeKana/MATLAB/blob/master/incongruent.png)
 
-### Sample Results compared with class
+### Sample result compared with class
 
 ![alt_text](https://github.com/AeKana/MATLAB/blob/master/sample_result.png)
 
